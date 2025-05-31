@@ -2,3 +2,6 @@
 -----
 
 Add new files: commit_msg, commit_msgs, git_push.sh, LICENSE, and requirements.txt
+-----
+
+Add Activations, Losses, and Neuron classes with activation functions and their derivatives
